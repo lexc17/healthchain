@@ -610,7 +610,7 @@ h5.subtitle {
 }
 
 .banner-3 {
-    background: url("../img/banner/banner-bg.jpg");
+    background: url("../img/healthcare/hospital.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
@@ -699,7 +699,7 @@ h5.subtitle {
     position: absolute;
     right: 0px;
     content: "";
-    background: url("../img/banner/1.jpg") 50% 50%;
+    background: url("../img/healthcare/85418.jpg");
     width: 40%;
     height: 100%;
     max-height: 560px;
