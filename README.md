@@ -13,4 +13,5 @@ Our mission is to improve the entire healthcare industry by simplifying the enro
 
 - HTML5
 - CSS3
+- JavaScript
 - PHP

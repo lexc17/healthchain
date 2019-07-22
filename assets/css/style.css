@@ -744,15 +744,15 @@ ABOUT SECTION
 /*--------------------------
 SERVICE AREA SECTION
 ----------------------*/
-.page-banner-area.page-service{
-  background: url("../img/bg/bg-2.jpg") no-repeat;
+.page-banner-area.page-service {
+  background: url("../img/healthcare/buildings.jpg") no-repeat;
   background-size: cover;
 }
 #service-head {
   padding-bottom: 100px;
   padding-top: 90px;
 }
-#service-head .section-title{
+#service-head .section-title {
   color: #fff;
 }
 .text-white p {
@@ -1208,8 +1208,14 @@ INner Pages
   position: relative;
   padding: 60px 0px 80px;
 }
-.page-banner-area{
+
+.page-banner-area {
   background:url("../img/healthcare/sky.jpg")no-repeat 50% 50%;
+  background-size: cover;
+}
+
+.page-banner-area-page-contact {
+  background:url("../img/healthcare/office.jpg")no-repeat 50% 50%;
   background-size: cover;
 }
 
