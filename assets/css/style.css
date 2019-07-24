@@ -1214,6 +1214,11 @@ INner Pages
   background-size: cover;
 }
 
+.page-banner-area-page-about {
+  background:url("../img/healthcare/walls.jpg")no-repeat 50% 50%;
+  background-size: cover;
+}
+
 .page-banner-area-page-contact {
   background:url("../img/healthcare/office.jpg")no-repeat 50% 50%;
   background-size: cover;
